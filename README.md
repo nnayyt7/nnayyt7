@@ -69,7 +69,3 @@ Here are some ideas to get you started:
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nnayyt7/nnayyt7/output/snake.svg" alt="Snake animation" />
-
-###
