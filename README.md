@@ -55,4 +55,3 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nnayyt7/nnayyt7/output/pacman-contribution-graph.svg">
 </picture>
 
-###
